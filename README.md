@@ -20,7 +20,7 @@ This repository is for providing feedback and documentation on the [Docker exten
 
 - **Refer to documentation from your current context**: Access [docs.docker.com](https://docs.docker.com) right from within Copilot Chat by asking questions like `“@docker, What does containerizing an application mean?”` or even `“@docker how can I start a container with a volume?”`
 
-- **Generate the right Docker assets for your project**: Get help containerizing your application and watch it generate assets (e.g. `Dockerfile`, `docker-compose.yml`, and `.dockerignore`) ftailored to your project’s languages and file structure with requests like `“@docker How would I use Docker to containerize this project?” `
+- **Generate the right Docker assets for your project**: Get help containerizing your application and watch it generate assets (e.g. `Dockerfile`, `docker-compose.yml`, and `.dockerignore`) tailored to your project’s languages and file structure with requests like `“@docker How would I use Docker to containerize this project?” `
 
 - **Open a Pull Request with the assets to save you time**: With your consent, the Docker extension can even ask if you want to open a PR with these generated Docker assets on GitHub, allowing you to review and merge them at your convenience.
 
