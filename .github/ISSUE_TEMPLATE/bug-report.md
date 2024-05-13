@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: 'Report a bug'
+about: Report a bug
 title: ''
 labels: ''
 assignees: '@savannahostrowski @sam-thibault'
