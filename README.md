@@ -14,7 +14,7 @@ This repository is for providing feedback and documentation on the [Docker exten
 
 # Current Features
 
-![A demo video of the Docker extension for GitHub Copilot](extension-demo.mov)
+![A demo video of the Docker extension for GitHub Copilot](extension_demo.gif)
 
 - **Initiate a conversation with the Docker extension**: In GitHub Copilot Chat, get in the extension context by using `@docker` at the beginning of your request.
 
