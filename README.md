@@ -26,8 +26,6 @@ This repository is for providing feedback and documentation on the [Docker exten
 
 - **Find project vulnerabilities with Docker Scout**: The Docker extension also integrates with Docker Scout to surface a high-level summary of detected vulnerabilities and provide the next steps to continue using Scout in your terminal via CLI: `“@docker can you help me find vulnerabilities in my project?”`
 
-See the [changelog](CHANGELOG.md) for the latest release.
-
 # Troubleshooting
 
 Known issues are documented in [TROUBLESHOOTING](TROUBLESHOOTING.md).
@@ -35,7 +33,7 @@ Known issues are documented in [TROUBLESHOOTING](TROUBLESHOOTING.md).
 # Feedback
 
 -   File a bug in [GitHub Issues](https://github.com/docker/copilot-issues/issues/new/choose)
--   [Tweet us](https://twitter.com/docker) with other feedback
+-   [Chat with us on Twitter/X](https://twitter.com/docker) with other feedback
 
 # License
 
