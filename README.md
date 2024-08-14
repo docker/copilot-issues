@@ -5,7 +5,7 @@ The Docker Extension for GitHub Copilot (`@docker`) is a plugin that extends Git
 This repository is for providing feedback and documentation on the [Docker extension for GitHub Copilot ](https://github.com/apps/docker) in GitHub Copilot Chat. You can use the repository to report issues or submit feature requests. 
 
 > [!NOTE]
-> The Docker Extension for GitHub Copilot is current in limited public beta, accessible by invitation only.
+> The Docker Extension for GitHub Copilot is current in limited public beta. If you're a GitHub Copilot subscriber and interested in trying out the extension, you can sign up for the [waitlist](https://github.com/github-copilot/copilot_extensions_waitlist_signup).
 
 # Quick Start
 
